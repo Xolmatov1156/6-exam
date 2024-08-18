@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.kumbh {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.inter {
+  font-family: "Inter", sans-serif;
+}
+
+.active {
+  background-color: #509CDB;
+}
+
