@@ -58,7 +58,6 @@ function AddTeacher() {
                         <Button extraStyle="!w-[118px] kumbh" title="Save" type="submit" />
                     </div>
                     <div className="mt-[41px] w-[900px] flex flex-wrap gap-[60px] h-[500px] ">
-                        {/* Form Fields */}
                         <label className="flex flex-col text-slate-400">
                             <span>Full Name</span>
                             <Input
